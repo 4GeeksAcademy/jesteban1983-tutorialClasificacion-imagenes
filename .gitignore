@@ -1,3 +1,10 @@
 __pycache__
 .env
 .learn
+models/*.keras
+models/*.h5
+models/*.weights.h5
+dogs-vs-cats/
+dogs-vs-cats/train_split/
+dogs-vs-cats/test_split/
+dogs-vs-cats/sampleSubmission.csv

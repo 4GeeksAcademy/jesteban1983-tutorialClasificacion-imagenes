@@ -1,4 +1,6 @@
-from utils import db_connect
-engine = db_connect()
+"""Entry point for the image-classification project.
 
-# your code here
+The complete, documented workflow is maintained in ``src/explore.ipynb``.
+"""
+
+print("Ejecuta src/explore.ipynb para reproducir el análisis y entrenamiento.")
